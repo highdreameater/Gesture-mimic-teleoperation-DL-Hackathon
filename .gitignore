@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+env/
+
+# Model weights (large binaries — generate locally)
+models/*.pth
+models/*.pt
+models/*.onnx
+
+# MuJoCo assets (sourced from unitree_rl_gym externally)
+models/*.xml
+models/*.mjb
+
+# Datasets (large binaries — generate locally)
+data/*.h5
+data/*.hdf5
+data/*.npz
+data/*.csv
+
+# Keep directory structure
+!models/.gitkeep
+!data/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs / outputs
+*.log
+*.out
+annotated_*.mp4
+
+models/rl_policy.pt
+models/g1/
