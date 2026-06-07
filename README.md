@@ -14,12 +14,14 @@ Organised by **HCLTech** at **IIT Mandi**
 Problem Statement PS-8 (Track: Robotics) — *Gesture & Pose-Controlled Autonomous Interface*
 Course: **CS-671 Deep Learning and Applications**
 
-https://github.com/highdreameater/Gesture-mimic-teleoperation-DL-Hackathon/blob/main/RL_WALK.gif
 ## Demo
-![Demo](https://github.com/highdreameater/Gesture-mimic-teleoperation-DL-Hackathon/blob/main/RL_WALK.gif)
+
 <p align="center">
-  <img src="media/demo.gif](https://github.com/highdreameater/Gesture-mimic-teleoperation-DL-Hackathon/blob/main/RL_WALK.gif
-)" width="800">
+  <img src="https://raw.githubusercontent.com/highdreameater/Gesture-mimic-teleoperation-DL-Hackathon/main/RL_WALK.gif" width="850">
+</p>
+
+<p align="center">
+  <em>Real-time pose-controlled humanoid teleoperation in MuJoCo</em>
 </p>
 ## Supported Gestures
 
