@@ -14,7 +14,7 @@ Organised by **HCLTech** at **IIT Mandi**
 Problem Statement PS-8 (Track: Robotics) — *Gesture & Pose-Controlled Autonomous Interface*
 Course: **CS-671 Deep Learning and Applications**
 
-
+https://github.com/highdreameater/Gesture-mimic-teleoperation-DL-Hackathon/blob/main/RL_WALK.gif
 ## Supported Gestures
 
 The system recognises 5 distinct body poses, each mapped to a specific robot arm configuration:
