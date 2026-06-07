@@ -16,7 +16,7 @@ Course: **CS-671 Deep Learning and Applications**
 
 https://github.com/highdreameater/Gesture-mimic-teleoperation-DL-Hackathon/blob/main/RL_WALK.gif
 ## Demo
-
+![Demo](media/demo.gif](https://github.com/highdreameater/Gesture-mimic-teleoperation-DL-Hackathon/blob/main/RL_WALK.gif)
 <p align="center">
   <img src="media/demo.gif](https://github.com/highdreameater/Gesture-mimic-teleoperation-DL-Hackathon/blob/main/RL_WALK.gif
 )" width="800">
