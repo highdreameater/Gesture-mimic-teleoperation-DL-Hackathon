@@ -15,6 +15,12 @@ Problem Statement PS-8 (Track: Robotics) — *Gesture & Pose-Controlled Autonomo
 Course: **CS-671 Deep Learning and Applications**
 
 https://github.com/highdreameater/Gesture-mimic-teleoperation-DL-Hackathon/blob/main/RL_WALK.gif
+## Demo
+
+<p align="center">
+  <img src="media/demo.gif](https://github.com/highdreameater/Gesture-mimic-teleoperation-DL-Hackathon/blob/main/RL_WALK.gif
+)" width="800">
+</p>
 ## Supported Gestures
 
 The system recognises 5 distinct body poses, each mapped to a specific robot arm configuration:
